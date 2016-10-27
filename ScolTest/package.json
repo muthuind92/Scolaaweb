@@ -1,0 +1,10 @@
+{
+  "name": "ScolTest",
+  "version": "0.0.0",
+  "description": "ScolTest",
+  "main": "server.js",
+  "author": {
+    "name": "Administrator",
+    "email": ""
+  }
+}
